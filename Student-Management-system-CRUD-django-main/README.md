@@ -15,7 +15,6 @@ Django (3.0 and above)
 
 #Steps
 #Clone the repository:
-git clone https://github.com/pratiklamichhane/student-management-system-CRUD-django.git
 
 #Navigate to the project directory:
 cd base_project
