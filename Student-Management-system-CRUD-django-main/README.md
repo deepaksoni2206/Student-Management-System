@@ -47,10 +47,6 @@ Access the admin dashboard at http://127.0.0.1:8000/admin/ and log in using the 
 
 Manage student records by adding, updating, or deleting them via the admin interface or access the CRUD operations at http://127.0.0.1:8000
 
-#Contributing
-Contributions are welcome! Feel free to open issues or pull requests.
 
-#License
-This project is licensed under the MIT License.
 
  
